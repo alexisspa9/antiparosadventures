@@ -2754,7 +2754,7 @@ html .b-goods-slider .slick-list {
 }
 
 .section-goods__inner {
-    background-image: url("../img/bg-1.jpg");
+    background-image: url("../img/antiparos-adventures-bg-1.jpg");
     background-size: cover;
     background-position: center center;
 }
@@ -4567,7 +4567,7 @@ html .b-goods-slider .slick-list {
     position: relative;
     padding-top: 200px;
     padding-bottom: 75px;
-    background-image: url("../img/b01.jpg");
+    background-image: url("../img/antiparos-adventures-b01.jpg");
     background-size: cover;
 }
 
@@ -5448,9 +5448,9 @@ html .b-goods-slider .slick-list {
 
 
 
-.about-image {
+/* .about-image {
     margin-left: -120px;
-}
+} */
 
 
 
